@@ -363,7 +363,7 @@
 {"id":763,"server":1,"atk":5307,"life":11636,"fire":0.89,"aqua":0.89,"wind":0.89,"light":1.5,"dark":1,"hits":0,"sklmax":27.7,"name":"ライウー","rare":2,"element":5,"skin":3,"sklsp":590,"sklcd":14.7,"anum":2,"mspd":54,"aarea":70,"aspd":2.5,"tenacity":32,"skill":"属性破 出撃中のユニットの対象属性補正を上昇させる。ユニット当たり5回上限でブレイク系スキルは効果発動し、戦闘不能になるまで効果継続。","obtain":"宵桜に舞う鬼と鎮めの奏 全域でドロップ","parts":1,"sarea":30},
 {"id":764,"server":1,"atk":9659,"life":64846,"fire":0.8,"aqua":1.5,"wind":1,"light":1,"dark":1,"hits":0,"sklmax":25.36,"name":"イブギオウ","rare":3,"element":3,"skin":2,"sklsp":670,"sklcd":12.4,"anum":4,"mspd":47,"aarea":60,"aspd":2.44,"tenacity":44,"skill":"双色魂 ブラストソウル（炎風）","obtain":"宵桜に舞う鬼と鎮めの奏\nいざよいの屋敷「合戦」","parts":1,"sarea":60},
 {"id":765,"server":1,"atk":10066,"life":94949,"fire":0.9,"aqua":0.9,"wind":0.9,"light":1.5,"dark":1,"hits":2,"sklmax":20.57,"name":"オニクモキリ","rare":4,"element":5,"skin":5,"sklsp":810,"sklcd":10.0,"anum":2,"mspd":54,"aarea":55,"aspd":2.89,"tenacity":65,"skill":"双色破 ストームブレイク（風闇）","obtain":"宵桜に舞う鬼と鎮めの奏\n舞殿「戴天」","parts":1,"sarea":55},
-
+{"id":753,"server":1,"atk":8496,"life":86420,"fire":0.9,"aqua":0.9,"wind":0.9,"light":1.5,"dark":1,"hits":0,"sklmax":21.06,"name":"ヴェルヴォルド","rare":4,"element":5,"skin":2,"sklsp":590,"sklcd":12.1,"anum":6,"mspd":51,"aarea":35,"aspd":2.59,"tenacity":63,"skill":"反领域 出現するすべてのユニットとモンスターの対闇属性補正を上昇させる(回復行動を除く)。重ね掛け不可で、他のイクリーズ系スキルが発動された場合、効果は上書きされる。","obtain":"暴走モンスター ヴェルヴォルド出現！","parts":1,"sarea":35},
 
 
 
