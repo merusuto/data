@@ -1079,8 +1079,8 @@
 {"id":1089,"server":1,"title":"[膨尾の義狐]","name":"デイジー","country":"动物之国","rare":3,"element":1,"weapon":6,"type":1,"anum":1,"life":1320,"atk":2580,"mspd":55,"aspd":2.02,"aarea":145,"tenacity":39,"fire":1,"aqua":0.69,"wind":1.45,"light":1,"dark":1,"hits":2,"age":16,"gender":3,"career":"ガンナー","interest":"髪の手入れ、水浴び","nature":"きまぐれ","obtain":"\n進化「義狐の銃士」デイジー"},
 {"id":1090,"server":1,"title":"[風閃の骨刃士]","name":"カロカロ","country":"恐龙之国","rare":3,"element":3,"weapon":1,"type":3,"anum":1,"life":2030,"atk":2290,"mspd":57,"aspd":2.29,"aarea":18,"tenacity":61,"fire":0.74,"aqua":1.35,"wind":1,"light":1,"dark":1,"hits":0,"age":17,"gender":2,"career":"剣士","interest":"食事、戦い","nature":"たんき","obtain":"\n進化「骨刃の剣士」カロカロ"},
 {"id":1091,"server":1,"title":"[月扇の噺家]","name":"やぐも","country":"和之国","rare":3,"element":2,"weapon":7,"type":1,"anum":2,"life":1430,"atk":1890,"mspd":47,"aspd":2.41,"aarea":145,"tenacity":38,"fire":1,"aqua":1.3,"wind":1,"light":1,"dark":1,"hits":0,"age":21,"gender":2,"career":"僧侶","interest":"声真似、話の収集","nature":"きまぐれ","obtain":"\n2017年3月メダル交換所"},
-{"id":1091,"server":1,"title":"[紅珠の陽照姫]","name":"シュルーラ","country":"沙漠之国","rare":4,"element":1,"weapon":3,"type":3,"anum":4,"life":2660,"atk":1690,"mspd":60,"aspd":2.88,"aarea":35,"tenacity":55,"fire":1,"aqua":0.74,"wind":1.35,"light":1,"dark":1,"hits":0,"age":21,"gender":3,"career":"重戦士","interest":"民芸品づくり","nature":"ゆうかん","obtain":"\n2017年3月メダル交換所"},
-
+{"id":1092,"server":1,"title":"[紅珠の陽照姫]","name":"シュルーラ","country":"沙漠之国","rare":4,"element":1,"weapon":3,"type":3,"anum":4,"life":2660,"atk":1690,"mspd":60,"aspd":2.88,"aarea":35,"tenacity":55,"fire":1,"aqua":0.74,"wind":1.35,"light":1,"dark":1,"hits":0,"age":21,"gender":3,"career":"重戦士","interest":"民芸品づくり","nature":"ゆうかん","obtain":"\n2017年3月メダル交換所"},
+{"id":1093,"server":1,"title":"[艶美なる惑星]","name":"ボースハイト","country":"电之国","rare":5,"element":1,"weapon":2,"type":1,"anum":2,"life":3456,"atk":3210,"mspd":84,"aspd":2.15,"aarea":20,"tenacity":35,"fire":1,"aqua":0.69,"wind":1.45,"light":1,"dark":1,"hits":2,"age":14,"gender":2,"career":"警察官","interest":"貢がせ屋、同僚いじり","nature":"だいたん","obtain":"\n2017年3月16日ダイヤ限定★5スカウトフェス「艶美なる惑星 ボースハイト」"},
 
 
 
