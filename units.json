@@ -1096,10 +1096,10 @@
 {"id":1105,"server":1,"title":"❤[情動なる自己]","name":"ジュディス","country":"科学之国","rare":2,"element":5,"weapon":2,"type":3,"anum":1,"life":1190,"atk":1590,"mspd":64,"aspd":1.49,"aarea":11,"tenacity":46,"fire":0,"aqua":0,"wind":0,"light":0,"dark":0,"hits":3,"age":19,"gender":3,"career":"危険モンスター対策室員","interest":"おしゃれ、二度寝","nature":"きまぐれ","obtain":"\n情動なるジュディス(レアメダル衣装)"},
 {"id":1106,"server":1,"title":"❤[護判の隠弾]","name":"オフィシア","country":"科学之国","rare":4,"element":2,"weapon":6,"type":1,"anum":2,"life":1770,"atk":3300,"mspd":47,"aspd":2.41,"aarea":170,"tenacity":41,"fire":1.35,"aqua":1,"wind":0.74,"light":1,"dark":1,"hits":0,"age":23,"gender":3,"career":"危険モンスター対策室員","interest":"小説、ファッション","nature":"ゆうかん","obtain":"\nオフィシアのマスク(レアメダル衣装)"},
 {"id":1107,"server":1,"title":"❤[燦陰に奔る糸]","name":"ノーヴィアス","country":"科学之国","rare":5,"element":4,"weapon":1,"type":3,"anum":4,"life":3773,"atk":2112,"mspd":57,"aspd":2.77,"aarea":15,"tenacity":74,"fire":0.9,"aqua":0.9,"wind":0.9,"light":1,"dark":1.4,"hits":2,"age":23,"gender":2,"career":"カウンセラー","interest":"部屋の掃除、置物集め","nature":"じょうひん","obtain":"\nノーヴィアスとバメルのマスク(レアメダル衣装)"},
-
-
-
-
+{"id":1111,"server":1,"title":"[散り揺る苞片]","name":"ブーゲリア","country":"植物之国","rare":4,"element":1,"weapon":5,"type":3,"anum":3,"life":1600,"atk":3300,"mspd":45,"aspd":3.21,"aarea":170,"tenacity":40,"fire":1,"aqua":0.54,"wind":1.85,"light":1,"dark":1,"hits":2,"age":25,"gender":2,"career":"魔法使い","interest":"早朝の森の空気","nature":"やさしい","obtain":"\nダイヤ限定★4スカウトフェス「散り揺る苞片 ブーゲリア」"},
+{"id":1108,"server":1,"title":"[水浪の銃士]","name":"タトル","country":"机械之国","rare":2,"element":3,"weapon":6,"type":2,"anum":1,"life":1060,"atk":2060,"mspd":58,"aspd":2.2,"aarea":165,"tenacity":38,"fire":1.35,"aqua":1,"wind":0.74,"light":1,"dark":1,"hits":0,"age":19,"gender":3,"career":"ガンナー","interest":"物を解体すること","nature":"やんちゃ","obtain":"\nロード・トゥ・グローリー⑦"},
+{"id":1109,"server":1,"title":"[雷晶の術士]","name":"エルネス","country":"电之国","rare":2,"element":4,"weapon":5,"type":2,"anum":3,"life":1360,"atk":1630,"mspd":48,"aspd":3.33,"aarea":130,"tenacity":43,"fire":0.86,"aqua":0.86,"wind":0.86,"light":1,"dark":1.75,"hits":0,"age":15,"gender":2,"career":"魔法使い","interest":"鍛錬、音楽","nature":"まじめ","obtain":"\nロード・トゥ・グローリー⑦"},
+{"id":1110,"server":1,"title":"[午睡の弓士]","name":"ユディ","country":"动物之国","rare":2,"element":5,"weapon":4,"type":1,"anum":2,"life":1280,"atk":1880,"mspd":46,"aspd":2.48,"aarea":130,"tenacity":42,"fire":0.91,"aqua":0.91,"wind":0.91,"light":1.35,"dark":1,"hits":0,"age":21,"gender":3,"career":"複弓手","interest":"髪の手入れ、お昼寝","nature":"やさしい","obtain":"\nロード・トゥ・グローリー⑦"},
 
 
 
