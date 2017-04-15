@@ -1101,10 +1101,10 @@
 {"id":1109,"server":1,"title":"[雷晶の術士]","name":"エルネス","country":"电之国","rare":2,"element":4,"weapon":5,"type":2,"anum":3,"life":1360,"atk":1630,"mspd":48,"aspd":3.33,"aarea":130,"tenacity":43,"fire":0.86,"aqua":0.86,"wind":0.86,"light":1,"dark":1.75,"hits":0,"age":15,"gender":2,"career":"魔法使い","interest":"鍛錬、音楽","nature":"まじめ","obtain":"\nロード・トゥ・グローリー⑦"},
 {"id":1110,"server":1,"title":"[午睡の弓士]","name":"ユディ","country":"动物之国","rare":2,"element":5,"weapon":4,"type":1,"anum":2,"life":1280,"atk":1880,"mspd":46,"aspd":2.48,"aarea":130,"tenacity":42,"fire":0.91,"aqua":0.91,"wind":0.91,"light":1.35,"dark":1,"hits":0,"age":21,"gender":3,"career":"複弓手","interest":"髪の手入れ、お昼寝","nature":"やさしい","obtain":"\nロード・トゥ・グローリー⑦"},
 {"id":1112,"server":1,"title":"[冬を齎す者]","name":"ラピスラズリ","country":"妖精之国","rare":5,"element":2,"weapon":4,"type":1,"anum":3,"life":2468,"atk":3579,"mspd":47,"aspd":2.57,"aarea":170,"tenacity":30,"fire":1.7,"aqua":1,"wind":0.59,"light":1,"dark":1,"hits":3,"age":25,"gender":3,"career":"王女","interest":"ハープを弾くこと","nature":"じょうひん","obtain":"\nダイヤ限定★5スカウトフェス「冬を齎す者 ラピスラズリ」"},
-
-
-
-
+{"id":1113,"server":1,"title":"[弾み心の旅人]","name":"カルセ","country":"电之国","rare":3,"element":4,"weapon":6,"type":2,"anum":2,"life":1350,"atk":2300,"mspd":55,"aspd":2.15,"aarea":130,"tenacity":44,"fire":0.91,"aqua":0.91,"wind":0.91,"light":1,"dark":1.35,"hits":0,"age":14,"gender":3,"career":"学生","interest":"読字、妄想","nature":"きまぐれ","obtain":"\n4月進化解放2017"},
+{"id":1114,"server":1,"title":"[石路走る焔弾]","name":"ラッドストー","country":"电之国","rare":4,"element":1,"weapon":6,"type":3,"anum":2,"life":1710,"atk":2770,"mspd":50,"aspd":2.55,"aarea":140,"tenacity":55,"fire":1,"aqua":0.71,"wind":1.4,"light":1,"dark":1,"hits":0,"age":41,"gender":2,"career":"刑事","interest":"仕事、射撃練習","nature":"まじめ","obtain":"\n4月進化解放2017"},
+{"id":1115,"server":1,"title":"[陽光の踊り子]","name":"ベイルージュ","country":"妖精之国","rare":3,"element":4,"weapon":3,"type":1,"anum":3,"life":2080,"atk":1990,"mspd":58,"aspd":2.8,"aarea":25,"tenacity":40,"fire":0.9,"aqua":0.9,"wind":0.9,"light":1,"dark":1.4,"hits":0,"age":19,"gender":3,"career":"重戦士","interest":"酒、踊り","nature":"だいたん","obtain":"\nメダル交換所"},
+{"id":1116,"server":1,"title":"[翠眼の飴匠]","name":"シュクレーレ","country":"点心之国","rare":4,"element":3,"weapon":4,"type":2,"anum":3,"life":1710,"atk":2540,"mspd":48,"aspd":2.58,"aarea":160,"tenacity":41,"fire":0.74,"aqua":1.35,"wind":1,"light":1,"dark":1,"hits":0,"age":15,"gender":2,"career":"複弓手","interest":"作品制作","nature":"やさしい","obtain":"\nメダル交換所"},
 
 
 
