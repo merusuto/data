@@ -388,7 +388,7 @@
 {"id":793,"server":1,"name":"ルミノル","rare":2,"element":5,"skin":1,"life":11776,"atk":22556,"anum":2,"hits":2,"aspd":2.55,"aarea":65,"sarea":80,"mspd":45,"tenacity":45,"sklsp":610,"sklcd":15.9,"sklmax":28.25,"fire":0.89,"aqua":0.89,"wind":0.89,"light":1.5,"dark":1,"skill":"属性破 出撃中のユニットの対象属性補正を上昇させる。ユニット当たり5回上限でブレイク系スキルは効果発動し、戦闘不能になるまで効果継続。","obtain":"燦光の街と陰奔の糸　全域でドロップ","parts":1},
 {"id":794,"server":1,"name":"バメル","rare":3,"element":4,"skin":2,"life":94545,"atk":39635,"anum":1,"hits":4,"aspd":2.00,"aarea":20,"sarea":30,"mspd":60,"tenacity":50,"sklsp":990,"sklcd":12.6,"sklmax":25.57,"fire":0.9,"aqua":0.9,"wind":0.9,"light":1,"dark":1.5,"skill":"双色魂 出撃中の風属性・光属性のユニットの攻撃力を上昇させる。","obtain":"燦光の街と陰奔の糸\nラジオネの町「マッスルの日々」","parts":1},
 {"id":795,"server":1,"name":"リベラビルス","rare":4,"element":5,"skin":3,"life":178180,"atk":35351,"anum":3,"hits":0,"aspd":1.75,"aarea":60,"sarea":90,"mspd":55,"tenacity":55,"sklsp":680,"sklcd":10.01,"sklmax":32.82,"fire":0.9,"aqua":0.9,"wind":0.9,"light":1.5,"dark":1,"skill":"属性破 出撃中のユニットの対闇属性補正を上昇させる。ユニット当たり5回上限でブレイク系スキルは効果発動し、戦闘不能になるまで効果継続。","obtain":"燦光の街と陰奔の糸\nカウンセリングルーム「事件と審理」\n廃工場「発露」「ひとりじゃない」","parts":1},
-
+{"id":766,"server":1,"name":"ヘルコッコ","rare":4,"element":1,"skin":2,"life":152366,"atk":34022,"anum":6,"hits":0,"aspd":2.46,"aarea":30,"sarea":60,"mspd":61,"tenacity":46,"sklsp":600,"sklcd":12.1,"sklmax":21.06,"fire":1,"aqua":0.8,"wind":1.5,"light":1,"dark":1,"skill":"反领域 出現するすべてのユニットとモンスターの対火属性補正を上昇させる（回復行動を除く）。重ねがけ不可で、他のイクリーズ系スキルが発動された場合、効果は上書きされる。","obtain":"暴走モンスター ヘルコッコ出現！","parts":1},
 
 
 
